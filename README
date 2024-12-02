@@ -4,5 +4,5 @@ Introduction
 The problem we are looking at is how to predict the popularity of a new song based on existing Spotify data. With the radio industry on the decline, stations are consistently looking to appeal and improve the kinds of songs they play. We propose building a model that using the Spotify dataset, predicts the likelihood of a new song becoming popular and a hit. This could increase the probability of users expanding into the radio industry for up-to-date hits.
 
 Table of Contents
-- spotifydataset.csv - Contains the original dataset we built our model off of.
+- spotifydataset.csv - Contains the original dataset we built our model off of. Originally from https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset/blob/main/dataset.csv
 - SpotifyModels.ipynb - Contains the different models we used on our dataset. 
